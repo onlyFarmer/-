@@ -3,3 +3,5 @@
 ## 12321网络不良与垃圾信息举报受理中心 https://www.12321.cn/
 ## 中国互联网金融举报信息平台 https://jubao.nifa.org.cn/ipnifa/
 ## 国家网信办举报中心 http://www.12377.cn/
+## 中央纪委国家监委举报网站 http://www.12388.gov.cn/
+## 网络违法犯罪举报网站 http://www.cyberpolice.cn/
